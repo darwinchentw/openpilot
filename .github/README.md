@@ -23,7 +23,7 @@ US-spec and 2020–2022 torque-steering Outbacks are **not supported** by this f
 2. Choose **Custom Software**.
 3. Enter:
    ```
-   dddddcccc/22obtw
+   darwinchentw/22obtw
    ```
 4. Wait for the download and first build (about 10–20 minutes). Installation is done once it boots to the home screen.
 5. On your first drive, drive normally for a while so the device can finish calibrating.
@@ -70,7 +70,7 @@ Please report problems in this repo's [Issues](https://github.com/dddddcccc/open
 2. 選 **Custom Software（自訂軟體）**
 3. 輸入：
    ```
-   dddddcccc/22obtw
+   darwinchentw/22obtw
    ```
 4. 等待下載及第一次編譯（約 10–20 分鐘），開機到主畫面即完成
 5. 第一次上路需要正常行駛一段時間完成自動校正
@@ -88,6 +88,6 @@ C4 會自動從 `22obtw` 分支下載更新，熄火後重新開機時套用。�
   - LKAS 按鈕不會影響 MADS 狀態
 
 ## 🐞 問題回報
-請在本 repo 的 [Issues](https://github.com/dddddcccc/openpilot/issues) 回報，說明發生的情況、時間，並附上 [comma connect](https://connect.comma.ai/) 的行程連結。
+請在本 repo 的 [Issues](https://github.com/darwinchentw/openpilot/issues) 回報，說明發生的情況、時間，並附上 [comma connect](https://connect.comma.ai/) 的行程連結。
 
 **車子辨識不到？** 開機後如果顯示「車型不支援」或只進入行車記錄器模式，可能是你的車韌體版本跟目前收錄的不同。請到 Issues 回報並附上行程連結，方便加入你的韌體版本。
