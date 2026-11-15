@@ -41,7 +41,7 @@ The C4 downloads updates from the `22obtw` branch automatically and applies them
   - The LKAS button no longer affects MADS state
 
 ## 🐞 Reporting issues
-Please report problems in this repo's [Issues](https://github.com/dddddcccc/openpilot/issues). Describe what happened and when, and include a [comma connect](https://connect.comma.ai/) route link.
+Please report problems in this repo's [Issues](https://github.com/darwinchentw/openpilot/issues). Describe what happened and when, and include a [comma connect](https://connect.comma.ai/) route link.
 
 **Car not recognized?** If the device says your car is not supported, or only runs in dashcam mode, your car's firmware versions may differ from the ones currently listed. Please open an issue with a route link so your firmware versions can be added.
 
