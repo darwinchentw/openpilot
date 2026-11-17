@@ -37,7 +37,6 @@ The C4 downloads updates from the `22obtw` branch automatically and applies them
 - **Angle-based steering (LKAS angle)**: ported from comma.ai's not-yet-merged [commaai/opendbc#2864](https://github.com/commaai/opendbc/pull/2864), keeping sunnypilot's MADS
 - **Fingerprinting**: adds a fingerprint for the Taiwan-spec 2022 Subaru Outback
 - **MADS fixes**:
-  - Fixes MADS lateral control failing to engage after turning ACC main off and back on
   - The LKAS button no longer affects MADS state
 
 ## 🐞 Reporting issues
@@ -84,7 +83,6 @@ C4 會自動從 `22obtw` 分支下載更新，熄火後重新開機時套用。�
 - **角度式轉向（LKAS angle）**：移植自 comma.ai 尚未合併的 [commaai/opendbc#2864](https://github.com/commaai/opendbc/pull/2864)，保留 sunnypilot 的 MADS
 - **車型辨識**：新增台規 2022 年式 Subaru Outback fingerprint
 - **MADS 修正**：
-  - 修正 ACC 主開關關閉再打開後，MADS 橫向控制無法啟用的問題
   - LKAS 按鈕不會影響 MADS 狀態
 
 ## 🐞 問題回報
